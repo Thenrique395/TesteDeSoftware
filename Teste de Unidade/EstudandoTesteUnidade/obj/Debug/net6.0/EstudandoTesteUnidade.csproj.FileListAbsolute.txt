@@ -1,0 +1,12 @@
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\bin\Debug\net6.0\EstudandoTesteUnidade.deps.json
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\bin\Debug\net6.0\EstudandoTesteUnidade.dll
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\bin\Debug\net6.0\EstudandoTesteUnidade.pdb
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.csproj.AssemblyReference.cache
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.AssemblyInfoInputs.cache
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.AssemblyInfo.cs
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.csproj.CoreCompileInputs.cache
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.dll
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\refint\EstudandoTesteUnidade.dll
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\EstudandoTesteUnidade.pdb
+C:\Users\thenr\Desktop\MyFinance\TesteDeSoftware\Teste de Unidade\EstudandoTesteUnidade\obj\Debug\net6.0\ref\EstudandoTesteUnidade.dll
